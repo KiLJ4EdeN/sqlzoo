@@ -3,12 +3,6 @@
 
 # 1 - Basics
 
-## custom names are written in {}.
-## annotations:
-### {COLUMN}: custom column name.
-### {TABLE}: custom table name.
-### {VALUE}: some value.
-
 
 ##### simple column select.
 ```
