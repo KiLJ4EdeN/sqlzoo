@@ -1,8 +1,6 @@
-# SQL CHEATSHEET
+# Part 2
 
-
-# 1 - Basics
-
+# World Table
 
 ##### simple column select.
 ```
