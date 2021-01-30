@@ -3,7 +3,7 @@
 # World Table
 
 ##### simple column select.
-```
+```sql
 SELECT population FROM world
 ```
 
