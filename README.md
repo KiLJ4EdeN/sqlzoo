@@ -1,3 +1,3 @@
 # sqlzoo
 
-answers and examples from [sqlzoo](sqlzoo.net)
+answers and examples from [sqlzoo](https://sqlzoo.net)
