@@ -13,27 +13,9 @@ SELECT population FROM world
   WHERE name = 'France'
 ```
 
-##### select column with a condition.
-```sql
-SELECT population FROM world
-  WHERE name = 'France'
-```
-
 ##### select a bunch of columns.
 ```sql
 SELECT name, continent, population FROM world
-```
-
-##### select a bunch of columns.
-```sql
-SELECT name, continent, population FROM world
-```
-
-##### column comparison.
-```sql
-SELECT name
-  FROM world
- WHERE population > 100000000
 ```
 
 ##### column comparison.
